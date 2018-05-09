@@ -20,7 +20,6 @@ Simple example for reading and writing into Kafka
 # produce something into the topic (write something and hit enter)
 ./bin/kafka-console-producer.sh --topic test --broker-list localhost:9092
 
-
 #start flink
 Open the app and start ReadToKafka and WriteIntoKafka with required arguments. 
 ```
