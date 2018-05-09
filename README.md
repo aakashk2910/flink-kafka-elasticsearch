@@ -1,5 +1,5 @@
 # kafka-example
-Simple example for reading and writing into Kafka
+Simple example for reading and writing into Kafka. Elasticsearch-Flink still needs to be updated.
 
 
 # Set up Kafka
